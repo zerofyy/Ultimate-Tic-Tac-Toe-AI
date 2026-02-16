@@ -13,7 +13,7 @@
   <a href="#usage">Usage</a> •
   <a href="#implemented-algorithms">Implemented Algorithms</a> •
   <a href="#heuristic-evaluation">Heuristic Evaluation</a> •
-  <a href="#results-notes-fun-facts">Results, Notes, Fun Facts</a>
+  <a href="#results-optimizations-fun-facts">Results, Optimizations, Fun Facts</a>
 </p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/87a477ab-7b0f-4e8b-96a7-f4689ba843c8"></p>
